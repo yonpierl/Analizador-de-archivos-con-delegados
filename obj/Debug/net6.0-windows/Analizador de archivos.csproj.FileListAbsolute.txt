@@ -1,0 +1,17 @@
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\bin\Debug\net6.0-windows\Analizador de archivos.exe
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\bin\Debug\net6.0-windows\Analizador de archivos.deps.json
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\bin\Debug\net6.0-windows\Analizador de archivos.runtimeconfig.json
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\bin\Debug\net6.0-windows\Analizador de archivos.dll
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\bin\Debug\net6.0-windows\Analizador de archivos.pdb
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\obj\Debug\net6.0-windows\Analizador de archivos.csproj.AssemblyReference.cache
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\obj\Debug\net6.0-windows\Analizador_de_archivos.Form1.resources
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\obj\Debug\net6.0-windows\Analizador de archivos.csproj.GenerateResource.cache
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\obj\Debug\net6.0-windows\Analizador de archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\obj\Debug\net6.0-windows\Analizador de archivos.AssemblyInfoInputs.cache
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\obj\Debug\net6.0-windows\Analizador de archivos.AssemblyInfo.cs
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\obj\Debug\net6.0-windows\Analizador de archivos.csproj.CoreCompileInputs.cache
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\obj\Debug\net6.0-windows\Analizador de archivos.dll
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\obj\Debug\net6.0-windows\refint\Analizador de archivos.dll
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\obj\Debug\net6.0-windows\Analizador de archivos.pdb
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\obj\Debug\net6.0-windows\Analizador de archivos.genruntimeconfig.cache
+C:\Users\Jonatan\source\repos\Analizador de archivos\Analizador de archivos\obj\Debug\net6.0-windows\ref\Analizador de archivos.dll
